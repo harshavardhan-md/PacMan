@@ -183,7 +183,7 @@ npm run dev
 - 💬 Discord: [Join our community](#)
 - 🐦 Twitter: [@PacmanQuantum](#)
 - 📱 Telegram: [PacmanQuantum Official](#)
-
+ 
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
