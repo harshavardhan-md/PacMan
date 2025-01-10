@@ -15,7 +15,7 @@
 ![PacMan: Quantum Web Banner](https://via.placeholder.com/1200x400?text=PacMan:+Quantum+Web)
 
 </div>
-
+ 
 ## 🌟 Overview
 
 Welcome to PacMan: Quantum Web - a revolutionary web-based reimagining of the classic arcade game. Experience procedurally generated 3D mazes powered by AI, with difficulty that adapts to your skill level. Earn unique NFTs, compete globally, and experience PacMan like never before, all in your browser.
