@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 🎮 PacMan: Quantum Web
 
 [![React](https://img.shields.io/badge/React-App-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
