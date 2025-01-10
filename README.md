@@ -22,7 +22,7 @@ Welcome to PacMan: Quantum Web - a revolutionary web-based reimagining of the cl
 
 ### 🎯 Key Features
 
-- 🎲 AI-Generated 3D Levels
+- 🎲 AI-Generated 3D Levels 
 - 🧠 Adaptive Difficulty System
 - ⛓️ Ethereum NFT Rewards
 - 🌐 Browser-Based Gameplay
