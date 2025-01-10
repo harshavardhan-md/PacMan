@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 
 > *The Classic Arcade Legend Reimagined for Web3*
-
+  
 [Play Now](#) • [NFT Collection](#) • [Leaderboard](#) • [Documentation](#)
 
 ![PacMan: Quantum Web Banner](https://via.placeholder.com/1200x400?text=PacMan:+Quantum+Web)
